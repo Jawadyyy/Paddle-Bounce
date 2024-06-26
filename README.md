@@ -43,7 +43,7 @@ Run the executable:
 ```
 
 ## Example
-![Game Screenshot](Paddle Bounce/content/Example.png)
+![Game Screenshot](Paddle-Bounce/content/Example.PNG)
 
 ## Game Controls
 
